@@ -3,6 +3,8 @@ QuickDatesFormatter
 
 Plugin for SublimeText3
 
+(Some ideas borrowed from PJ Dietz's [sublime-date-formatter]( https://github.com/pjdietz/sublime-date-formatter/blob/master/README.md))
+
 ## Usage
 
 1. Activate the Command Palette and select the `QuickDatesFormatter: Format dates` command.
