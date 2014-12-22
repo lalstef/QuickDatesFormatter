@@ -1,0 +1,6 @@
+[
+	{
+		"caption": "QuickDatesFormatter: Format dates",
+		"command": "quickdatesformatter_format_dates"
+	},
+]

@@ -1,0 +1,17 @@
+{
+	"target_format": "%d %b, %Y",
+	"formats": [
+	    // format 			label
+		["%d/%m/%Y",		"d/m/Y"],
+		["%m/%d/%Y",		"m/d/Y"],
+		["%Y/%m/%d",		"Y/m/d"],
+
+		["%d-%m-%Y",		"d-m-Y"],
+		["%m-%d-%Y",		"m-d-Y"],
+		["%Y-%m-%d",		"Y-m-d"],
+
+		["%d.%m.%Y",		"d.m.Y"],
+		["%m.%d.%Y",		"m.d.Y"],
+		["%Y.%m.%d",		"Y.m.d"]
+	]
+}
