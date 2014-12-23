@@ -7,7 +7,7 @@ Plugin for SublimeText3
 
 ## Installation
 
-### Git Installation
+### Installing from Git
 
 To install manually, clone to your "Packages" directory.
 
